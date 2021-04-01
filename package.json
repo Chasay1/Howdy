@@ -1,0 +1,25 @@
+{
+  "name": "howdy",
+  "version": "1.0.0",
+  "description": "Howdy is a discord bot that is constantly being worked on. Its objective is to create one simple, do-it-all bot.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "sequelize": "^6.3.5",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chasay1/Howdy.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Chasay1/Howdy/issues"
+  },
+  "homepage": "https://github.com/Chasay1/Howdy#readme"
+}
